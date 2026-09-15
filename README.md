@@ -28,8 +28,9 @@ CURRENT PROJECT
   An agentic AI tutor driven entirely by handwriting. A Python watcher
   monitors a reMarkable 2's stroke files over SSH: circle work in RED
   to get it marked, BLUE to get it explained, GREY ink is a command
-  channel — replies land on your phone as notifications.
-  No app. No typing. The pen is the interface.
+  channel — replies land on your phone as notifications via the notfy app
+  or visiting the locally hosted site that can be saved as a webapp on your
+  phone.
 
 STACK
   python · pytorch · sql · java · linux · git · Claude CLI
