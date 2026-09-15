@@ -21,8 +21,8 @@ INTERESTS
 PROJECTS
   integrated-remarkable-tutor/     <- Fully Integrated Agentic Tutor
   neural-face-reconstruction/      final-year dissertation
-  caveman-coding/                  data structures -> pure-NumPy MLPs
-  assetto-corsa-telemetry/         
+  caveman-coding/                  coding practice resource
+  assetto-corsa-telemetry/         live data analysis of motorsport telemetry
 
 CURRENT PROJECT
   An agentic AI tutor driven entirely by handwriting. A Python watcher
