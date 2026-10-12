@@ -43,6 +43,4 @@ STACK
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakmcguire/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zak.mcguire.03@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=Dr-Goober&style=for-the-badge&color=181717&label=PROFILE+VIEWS)
-
 </div>
